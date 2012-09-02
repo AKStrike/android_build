@@ -26,9 +26,7 @@ PRODUCT_PACKAGES := \
 	DrmProvider \
 	Email \
 	Fallback \
-	Gallery \
 	GPSEnable \
-	Launcher2 \
 	Protips \
 	Music \
 	Mms \
